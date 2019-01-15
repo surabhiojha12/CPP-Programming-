@@ -1,2 +1,2 @@
 # CPP-Programming-
-C++ programs and algorithms
+Implementation of algorithm and programs in C++.
