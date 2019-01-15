@@ -1,2 +1,2 @@
 # CPP-Programming-
-C++ programming examples
+C++ programs and algorithms
